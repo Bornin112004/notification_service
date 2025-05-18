@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+env/
+venv/
+*.env
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Docker
+docker-compose.override.yml
+*.log
+
+# RabbitMQ data (if you ever mount volumes)
+rabbitmq-data/
+
+# IDE
+.idea/
+
+# pytest
+.pytest_cache/
+
+# Coverage
+htmlcov/
+.coverage
+
+.env
