@@ -29,7 +29,6 @@ This project implements a **Notification Service** that allows sending notificat
 
 ## Architecture
 
-![Architecture Diagram](images/architecture.png)
 
 ```
 +-------------------+         +-------------------+         +-------------------+
@@ -87,8 +86,11 @@ This project implements a **Notification Service** that allows sending notificat
 
 **Example:**
 
-![Swagger UI](images/swagger-ui.png)
-![RabbitMQ Management UI](images/rabbitmq-ui.png)
+![Swagger UI](static/API_endpoints.png)
+![RabbitMQ Management UI](static/rabbirmq_queue.png)
+![SMSlogs](static/Twilio%20Message%20logs.png)
+![emailnotif](static/email%20notification.png)
+![inappnotif](static/Inapp%20notifications%20saved%20in%20db.png)
 
 ---
 
