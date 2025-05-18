@@ -124,7 +124,7 @@ TWILIO_MESSAGING_SERVICE_SID=your_messaging_service_sid
 
 1. **Clone the repository:**
    ```sh
-   git clone <your-repo-link>
+   git clone https://github.com/Bornin112004/notification_service
    cd notification_service
    ```
 
@@ -194,16 +194,6 @@ TWILIO_MESSAGING_SERVICE_SID=your_messaging_service_sid
 - SMS notifications are sent using the Twilio Messaging Service.
 - In-app notifications are stored in the SQLite database using SQLAlchemy.
 - The system is designed for local development and testing using Docker Compose.
-
----
-
-## Including Images in the README
-
-To include images or screenshots, place them in an `images/` folder in your project and use Markdown syntax:
-
-```markdown
-![Description](images/your-image.png)
-```
 
 ---
 
